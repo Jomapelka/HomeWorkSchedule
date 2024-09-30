@@ -41,6 +41,5 @@ public class Main {
             default:
                 System.out.println("Некорректный ввод");
         }
-
     }
 }
